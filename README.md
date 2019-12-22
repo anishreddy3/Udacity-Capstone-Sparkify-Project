@@ -41,7 +41,9 @@ The final metrics for our Gradient Boosted Trees Classifier are as follows: <br>
 The F-1 Score is 0.8695652173913043 <br>
 The accuracy is 0.8665247795682578 <br>
 
+Check out my blog post by clicking this [link](https://medium.com/@areddy3/predict-customer-churn-using-pyspark-c862881617b2) for more detailed analysis.
 
 ### Acknowledgements <a name = "acknowledgements"></a>
 
-Udacity has to be acknowledged for givning me this wonderful project.
+Udacity has to be acknowledged for giving me this wonderful project.
+
