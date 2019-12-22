@@ -3,11 +3,11 @@
 
 ## Table of Contents
 
-1. Dependencies(#dependencies)
-2. Project Motivation(#motivation)
-3. Files Description(#description)
-4. Results(#results)
-5. Acknowledgements(#acknowledgements)
+1. [Dependencies](#dependencies)
+2. [Project Motivation](#motivation)
+3. [Files Description](#description)
+4. [Results](#results)
+5. [Acknowledgements](#acknowledgements)
 
 
 ### Dependencies <a name = "dependencies"></a>
@@ -37,9 +37,9 @@ A user can have multiple actions which leads to multiple entries for a user, we 
 We trained three different models on the dataset which are Random Forest, Support Vector Machines and Gradient Boosted Trees respectively. We compared the performance between the three models and Gradient Boosted Trees outperformed the rest by a large margin.
 The metric we used to evaluate performance is F-1 Score as that gives us a better representation of the model performance. 
 
-The final metrics for our Gradient Boosted Trees Classifier are as follows: 
-The F-1 Score is 0.8695652173913043
-The accuracy is 0.8665247795682578
+The final metrics for our Gradient Boosted Trees Classifier are as follows: <br>
+The F-1 Score is 0.8695652173913043 <br>
+The accuracy is 0.8665247795682578 <br>
 
 
 ### Acknowledgements <a name = "acknowledgements"></a>
